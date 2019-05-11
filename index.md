@@ -73,13 +73,13 @@ Anacoda 2019.03 インストール方法
     ![w05.png](w05.png)
     チェックボックスの状態に要注意, Next 押下
     
-    ![w06.png](W06.png)
+    ![w06.png](w06.png)
     Next 押下
     
-    ![w07.png](W07.png)
+    ![w07.png](w07.png)
     Next 押下
     
-    ![w08.png](W08.png)
+    ![w08.png](w08.png)
     両方チェックボックスを外す, Finish 押下
 
     以上
