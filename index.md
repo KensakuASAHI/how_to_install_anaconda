@@ -1,4 +1,4 @@
-Anacoda 2019.03 インストール方法
+Anaconda 2019.03 インストール方法
 ========================================
 
 この文書は，初心者向けに情報提供を目的に書かれたものです．
@@ -6,11 +6,11 @@ Anacoda 2019.03 インストール方法
 
 1. Anaconda の配布サイトへ
 
-    配布サイト：[https://www.anaconda.com/distribution/#download-section](https://www.anaconda.com/distribution/#download-section)
+    配布サイト：[https://www.anaconda.com/products/individual#Downloads](https://www.anaconda.com/products/individual#Downloads)
 
 2. 適切なOS種別ごとのインストーラを入手する 
     
-    最上部の (Windows / macOS / Linux) を選択した後， "Python 3.7 version" の Download ボタンを押下する（ 2.7 は，終息予定なのでNG．必ず 3.7 を使用して下さい）．
+    OS種別ごと ( Windows / macOS ) にある， "64-Bit Graphical Installer" の Download ボタンを押下する．
     ![Anaconda のダウンロードサイト](00s.png)
 
 3. macOSの人は4.へ，Windowsの人は，5.へ
